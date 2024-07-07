@@ -1,0 +1,14 @@
+G:\Project C#\Spicetify Tool\Spicetify Tool\bin\Debug\Spicetify Tool.exe.config
+G:\Project C#\Spicetify Tool\Spicetify Tool\bin\Debug\Spicetify Tool.exe
+G:\Project C#\Spicetify Tool\Spicetify Tool\bin\Debug\Spicetify Tool.pdb
+G:\Project C#\Spicetify Tool\Spicetify Tool\bin\Debug\Guna.UI2.dll
+G:\Project C#\Spicetify Tool\Spicetify Tool\bin\Debug\Newtonsoft.Json.dll
+G:\Project C#\Spicetify Tool\Spicetify Tool\bin\Debug\Newtonsoft.Json.xml
+G:\Project C#\Spicetify Tool\Spicetify Tool\obj\Debug\Spicetify Tool.csproj.AssemblyReference.cache
+G:\Project C#\Spicetify Tool\Spicetify Tool\obj\Debug\Spicetify_Tool.Properties.Resources.resources
+G:\Project C#\Spicetify Tool\Spicetify Tool\obj\Debug\Spicetify Tool.csproj.GenerateResource.cache
+G:\Project C#\Spicetify Tool\Spicetify Tool\obj\Debug\Spicetify Tool.csproj.CoreCompileInputs.cache
+G:\Project C#\Spicetify Tool\Spicetify Tool\obj\Debug\Spicetif.A81625E8.Up2Date
+G:\Project C#\Spicetify Tool\Spicetify Tool\obj\Debug\Spicetify Tool.exe
+G:\Project C#\Spicetify Tool\Spicetify Tool\obj\Debug\Spicetify Tool.pdb
+G:\Project C#\Spicetify Tool\Spicetify Tool\obj\Debug\Spicetify_Tool.Form1.resources
